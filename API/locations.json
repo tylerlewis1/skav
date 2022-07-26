@@ -1,0 +1,15 @@
+{
+    "Locations": [{
+        "Name": "Parking lot",
+        "Lat": 43.073338,
+        "Lon": -89.389306,
+        "photo": "https://cdn.discordapp.com/attachments/662450225218191361/1000628897165099049/IMG_1755.JPG",
+        "ID": 1
+    },{
+        "Name": "Bike Shop",
+        "Lat": 43.073906,
+        "Lon": -89.381049,
+        "photo": "https://cdn.discordapp.com/attachments/662450225218191361/1000629056414437408/IMG_1761.JPG",
+        "ID": 2
+    }]
+}
